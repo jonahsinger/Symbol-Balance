@@ -1,0 +1,6 @@
+Test1.java: Mismatch Error: {line:6, current:), popped:[}
+Test2.java: NonEmptyStackError: {top:{, size:1}
+Test3.java: null
+Test4.java: Mismatch Error: {line:19, current:], popped:{}
+Test5.java: EmptyStackError: {line:22}
+Test6.java: NonEmptyStackError: {top:", size:3}
